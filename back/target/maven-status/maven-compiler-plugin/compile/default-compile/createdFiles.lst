@@ -1,0 +1,8 @@
+br/com/teste/AttusTesteServer.class
+br/com/teste/config/SwaggerConfig.class
+br/com/teste/entity/Login.class
+br/com/teste/controller/UsuarioController.class
+br/com/teste/exceptions/UsuarioGenericException.class
+br/com/teste/dto/LoginDto$LoginDtoBuilder.class
+br/com/teste/domain/UsuarioService.class
+br/com/teste/dto/LoginDto.class
